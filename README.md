@@ -107,7 +107,8 @@ exit(EXIT_SUCCESS);
 
 ## OUTPUT
 
-![alt text](image.png)
+<img width="717" height="108" alt="image" src="https://github.com/user-attachments/assets/32f724bf-c140-446a-934d-354eae580ece" />
+
 
 # RESULT:
 The program is executed successfully.
